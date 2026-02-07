@@ -1,6 +1,240 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="NO">
   <race>
+    <name>Canus, Hellhound (HB)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con +2, Str +1</ability>
+    <proficiency>Perception, Animal Handling</proficiency>
+    <weapons></weapons>
+    <trait category="description">
+      <name>Description</name>
+      <text>Usually known as "Man's best friend". Most Canus are kept as slaves, pets, or mercenaries for most of their life, but some find freedom from their masters through escaping, good behavior, or kindness. Canus are widely considered inhumane, and therefore don't have human rights, though this may be untrue for certain regions. In regions where they aren't considered human, they are considered "attack dogs", "dog maids", or sometimes even simple "house pets". 
+        Source: dandwiki Homebrew, StrayChowChow (Homebrew)
+      </text>
+    </trait>
+    <trait category="description">
+      <name>Physical Description</name>
+      <text>Canus are humanoids with certain dog-like features. This includes almost always ears and a tail, and rarely furred forearms and hands. The specifics of these traits change with sub-race, or in the harsher side of their heritage, "breeds". Hellhounds have darker furs, and fire seems to burn in their eyes. Servants have white fur nearly all the time, but sometimes a mutation will cause them to have grey hair, their eyes look quite normal. Domestics have brown fur, and usually, have a slightly blank look in their eyes. </text>
+    </trait>
+    <trait category="description">
+      <name>History</name>
+      <text>The Canus are a result of ancestors with lycanthropy giving birth to children with regular humans. Since lycanthropes are considered monsters, their children were considered freaks of nature, a mixture of monster and human that shouldn't exist. That is until one was allowed to grow up. This singular creature was docile and friendly, had little intelligence and seemed like a domestic wolf. That is when they became simple pets. However, once they started to become more and more human-like, it has become a question of if they can be given human rights. </text>
+    </trait>
+    <trait category="description">
+      <name>Society</name>
+      <text>There is not much to Canus society, they were treated like pets originally, so most of their society is basically pet society. </text>
+    </trait>
+    <trait category="description">
+      <name>Canus Names</name>
+      <text>Canus names are given by masters and are often very demeaning.
+
+          Male: Fido, Max, Doog, Bork
+
+          Female: Baby, Lola, Dixie </text>
+    </trait>
+    <trait>
+      <name>Age</name>
+      <text>Canus reach maturity around two thirds the rate of humans (12), but live slightly shorter, with the average life expectancy of 70.</text>
+    </trait>
+    <trait>
+      <name>Alignment</name>
+      <text>Due to the way they are usually raised, Canus are almost always lawful, no matter what kind of ideal they have, they have a sense of inferiority.</text>
+    </trait>
+    <trait>
+      <name>Size</name>
+      <text>Your size is Medium.</text>
+    </trait>
+    <trait category="species">
+      <name>Keen senses</name>
+      <text>Your sense of hearing and smell are better than most humanoids. You are proficient in the Perception skill. </text>
+    </trait>
+    <trait category="species">
+      <name>Natural Digger</name>
+      <text>You have a burrowing speed of 10 feet. </text>
+    </trait>
+    <trait category="species">
+      <name>Part Beast</name>
+      <text>Your creature type is both beast and humanoid. You are proficient in the Animal Handling skill and instead of making a Charisma (Deception) or Charisma (Persuasion) check creatures can instead make a Wisdom (Animal Handling), however, if someone does this, it is completely obvious to other creatures. </text>
+    </trait>
+    <trait category="species">
+      <name>Beast Fighting Stance</name>
+      <text>YYour claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. </text>
+    </trait>
+    <trait category="subspecies">
+      <name>Ability Score Increase</name>
+      <text>Your Strength score increases by 1.</text>
+    </trait>
+    <trait category="subspecies">
+      <name>Hellish Heritage</name>
+      <text>You have resistance to fire damage due to your infernal ancestry.</text>
+    </trait>
+    <trait category="subspecies">
+      <name>Hunter Step</name>
+      <text>Your base walking speed increases by 5 feet.</text>
+    </trait>
+    <trait>
+      <name>Languages</name>
+      <text>You can speak, read and write Common, and one other language that your master spoke.</text>
+    </trait>
+  </race>
+<race>
+    <name>Canus, Servant (HB)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con +2, Wis +1</ability>
+    <proficiency>Perception, Animal Handling, Insight</proficiency>
+    <weapons></weapons>
+    <trait category="description">
+      <name>Description</name>
+      <text>Usually known as "Man's best friend". Most Canus are kept as slaves, pets, or mercenaries for most of their life, but some find freedom from their masters through escaping, good behavior, or kindness. Canus are widely considered inhumane, and therefore don't have human rights, though this may be untrue for certain regions. In regions where they aren't considered human, they are considered "attack dogs", "dog maids", or sometimes even simple "house pets". 
+        Source: dandwiki Homebrew, StrayChowChow (Homebrew)
+      </text>
+    </trait>
+    <trait category="description">
+      <name>Physical Description</name>
+      <text>Canus are humanoids with certain dog-like features. This includes almost always ears and a tail, and rarely furred forearms and hands. The specifics of these traits change with sub-race, or in the harsher side of their heritage, "breeds". Hellhounds have darker furs, and fire seems to burn in their eyes. Servants have white fur nearly all the time, but sometimes a mutation will cause them to have grey hair, their eyes look quite normal. Domestics have brown fur, and usually, have a slightly blank look in their eyes. </text>
+    </trait>
+    <trait category="description">
+      <name>History</name>
+      <text>The Canus are a result of ancestors with lycanthropy giving birth to children with regular humans. Since lycanthropes are considered monsters, their children were considered freaks of nature, a mixture of monster and human that shouldn't exist. That is until one was allowed to grow up. This singular creature was docile and friendly, had little intelligence and seemed like a domestic wolf. That is when they became simple pets. However, once they started to become more and more human-like, it has become a question of if they can be given human rights. </text>
+    </trait>
+    <trait category="description">
+      <name>Society</name>
+      <text>There is not much to Canus society, they were treated like pets originally, so most of their society is basically pet society. </text>
+    </trait>
+    <trait category="description">
+      <name>Canus Names</name>
+      <text>Canus names are given by masters and are often very demeaning.
+
+          Male: Fido, Max, Doog, Bork
+
+          Female: Baby, Lola, Dixie </text>
+    </trait>
+    <trait>
+      <name>Age</name>
+      <text>Canus reach maturity around two thirds the rate of humans (12), but live slightly shorter, with the average life expectancy of 70.</text>
+    </trait>
+    <trait>
+      <name>Alignment</name>
+      <text>Due to the way they are usually raised, Canus are almost always lawful, no matter what kind of ideal they have, they have a sense of inferiority.</text>
+    </trait>
+    <trait>
+      <name>Size</name>
+      <text>Your size is Medium.</text>
+    </trait>
+    <trait category="species">
+      <name>Keen senses</name>
+      <text>Your sense of hearing and smell are better than most humanoids. You are proficient in the Perception skill. </text>
+    </trait>
+    <trait category="species">
+      <name>Natural Digger</name>
+      <text>You have a burrowing speed of 10 feet. </text>
+    </trait>
+    <trait category="species">
+      <name>Part Beast</name>
+      <text>Your creature type is both beast and humanoid. You are proficient in the Animal Handling skill and instead of making a Charisma (Deception) or Charisma (Persuasion) check creatures can instead make a Wisdom (Animal Handling), however, if someone does this, it is completely obvious to other creatures. </text>
+    </trait>
+    <trait category="species">
+      <name>Beast Fighting Stance</name>
+      <text>YYour claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. </text>
+    </trait>
+    <trait category="subspecies">
+      <name>Ability Score Increase</name>
+      <text>Your Wisdom score increases by 1.</text>
+    </trait>
+    <trait category="subspecies">
+      <name>Servant's Insight</name>
+      <text>You gain proficiency in the Insight skill.</text>
+    </trait>
+    <trait category="subspecies">
+      <name>A Servant's Vow</name>
+      <text> As a vow to protect your master, you gain proficiency in 1 martial weapon of your choice.</text>
+    </trait>
+    <trait>
+      <name>Languages</name>
+      <text>You can speak, read and write Common, and one other language that your master spoke.</text>
+    </trait>
+  </race>
+  <race>
+    <name>Canus, Domestic (HB)</name>
+    <size>M</size>
+    <speed>30</speed>
+    <ability>Con +2, Cha +1</ability>
+    <proficiency>Perception, Animal Handling, Performance</proficiency>
+    <weapons></weapons>
+    <trait category="description">
+      <name>Description</name>
+      <text>Usually known as "Man's best friend". Most Canus are kept as slaves, pets, or mercenaries for most of their life, but some find freedom from their masters through escaping, good behavior, or kindness. Canus are widely considered inhumane, and therefore don't have human rights, though this may be untrue for certain regions. In regions where they aren't considered human, they are considered "attack dogs", "dog maids", or sometimes even simple "house pets". 
+        Source: dandwiki Homebrew, StrayChowChow (Homebrew)
+      </text>
+    </trait>
+    <trait category="description">
+      <name>Physical Description</name>
+      <text>Canus are humanoids with certain dog-like features. This includes almost always ears and a tail, and rarely furred forearms and hands. The specifics of these traits change with sub-race, or in the harsher side of their heritage, "breeds". Hellhounds have darker furs, and fire seems to burn in their eyes. Servants have white fur nearly all the time, but sometimes a mutation will cause them to have grey hair, their eyes look quite normal. Domestics have brown fur, and usually, have a slightly blank look in their eyes. </text>
+    </trait>
+    <trait category="description">
+      <name>History</name>
+      <text>The Canus are a result of ancestors with lycanthropy giving birth to children with regular humans. Since lycanthropes are considered monsters, their children were considered freaks of nature, a mixture of monster and human that shouldn't exist. That is until one was allowed to grow up. This singular creature was docile and friendly, had little intelligence and seemed like a domestic wolf. That is when they became simple pets. However, once they started to become more and more human-like, it has become a question of if they can be given human rights. </text>
+    </trait>
+    <trait category="description">
+      <name>Society</name>
+      <text>There is not much to Canus society, they were treated like pets originally, so most of their society is basically pet society. </text>
+    </trait>
+    <trait category="description">
+      <name>Canus Names</name>
+      <text>Canus names are given by masters and are often very demeaning.
+
+          Male: Fido, Max, Doog, Bork
+
+          Female: Baby, Lola, Dixie </text>
+    </trait>
+    <trait>
+      <name>Age</name>
+      <text>Canus reach maturity around two thirds the rate of humans (12), but live slightly shorter, with the average life expectancy of 70.</text>
+    </trait>
+    <trait>
+      <name>Alignment</name>
+      <text>Due to the way they are usually raised, Canus are almost always lawful, no matter what kind of ideal they have, they have a sense of inferiority.</text>
+    </trait>
+    <trait>
+      <name>Size</name>
+      <text>Your size is Medium.</text>
+    </trait>
+    <trait category="species">
+      <name>Keen senses</name>
+      <text>Your sense of hearing and smell are better than most humanoids. You are proficient in the Perception skill. </text>
+    </trait>
+    <trait category="species">
+      <name>Natural Digger</name>
+      <text>You have a burrowing speed of 10 feet. </text>
+    </trait>
+    <trait category="species">
+      <name>Part Beast</name>
+      <text>Your creature type is both beast and humanoid. You are proficient in the Animal Handling skill and instead of making a Charisma (Deception) or Charisma (Persuasion) check creatures can instead make a Wisdom (Animal Handling), however, if someone does this, it is completely obvious to other creatures. </text>
+    </trait>
+    <trait category="species">
+      <name>Beast Fighting Stance</name>
+      <text>YYour claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. </text>
+    </trait>
+    <trait category="subspecies">
+      <name>Ability Score Increase</name>
+      <text>Your Charisma score increases by 1.</text>
+    </trait>
+    <trait category="subspecies">
+      <name>Adorable Defense</name>
+      <text>You can use your Charisma modifier in place of your Dexterity modifier when calculating your Armor Class.</text>
+    </trait>
+    <trait category="subspecies">
+      <name>Tricks Learned</name>
+      <text>You gain proficiency in the Performance skill.</text>
+    </trait>
+    <trait>
+      <name>Languages</name>
+      <text>You can speak, read and write Common, and one other language that your master spoke.</text>
+    </trait>
+  </race>
+  <race>
     <name>Mousefolk, Softpaw (HB)</name>
     <size>S</size>
     <speed>25</speed>
